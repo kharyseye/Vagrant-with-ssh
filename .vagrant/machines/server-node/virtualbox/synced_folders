@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/":{"guestpath":"/opt","hostpath":"/Users/kharyseye/vagrant/tp2_vagrant/node1","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/kharyseye/vagrant/tp2_vagrant","disabled":false,"__vagrantfile":true}}}
